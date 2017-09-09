@@ -1,0 +1,15 @@
+p, span {
+  background-color: #394264;
+}
+
+p {
+  margin-top: 0;
+  color: black;
+  font-size: 24px;
+  font-weight: lighter;
+}
+
+span {
+  color: orange;
+  font-size: 30px;
+}

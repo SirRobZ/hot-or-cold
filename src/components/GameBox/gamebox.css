@@ -1,0 +1,35 @@
+.home-container {
+  width: 400px;
+  height: 400px;
+  margin: 0 auto;
+  margin-top: 50px;
+  font-family: verdana;
+}
+
+.header-row {
+  background-color: #cc324b;
+  height: 75px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+
+.header-row span {
+  background-color: #cc324b;
+  color: white;
+  font-size: 16px;
+}
+
+.guess-row {
+  background-color: #394264;
+  height: 250px;
+}
+
+.guess-history-row {
+  background-color: #11a8ab;
+  height: 75px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+}

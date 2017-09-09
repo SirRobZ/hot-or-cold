@@ -1,0 +1,23 @@
+.guesses {
+  margin: 0;
+  background-color: inherit;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: auto;
+}
+
+ul {
+  list-style: none;
+  background-color: inherit;
+  text-align: center;
+}
+
+li {
+  display: inline;
+  background-color: #1a4e95;
+  padding: 0.3em;
+  border-radius: 4px;
+  margin: 2px;
+  color: whtie;
+}

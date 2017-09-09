@@ -1,0 +1,31 @@
+form {
+  width: 300px;
+  margin: 0 auto;
+  background-color: #394264;
+}
+.text-input, .submit-button {
+  width: 100%;
+  height: 50px;
+  border-radius: 4px;
+  margin-bottom: 25px;
+  text-align: center;
+  font-size: 24px;
+}
+
+.text-input {
+  margin-top: 25px;
+  background-color: #50597b;
+  border: 1px solid black;
+  color: white;
+}
+
+input::placeholder {
+  color: lightgrey;
+}
+
+.submit-button {
+  background-color: #1f253d;
+  border: none;
+  color: lightgrey;
+  font-weight: normal;
+}
