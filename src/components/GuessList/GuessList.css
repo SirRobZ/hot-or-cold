@@ -7,13 +7,13 @@
   overflow: auto;
 }
 
-ul {
+.guesses ul {
   list-style: none;
   background-color: inherit;
   text-align: center;
 }
 
-li {
+.guesses li {
   display: inline;
   background-color: #1a4e95;
   padding: 0.3em;

@@ -1,15 +1,16 @@
-p, span {
+.guess-number p,
+.guess-number span {
   background-color: #394264;
 }
 
-p {
+.guess-number p {
   margin-top: 0;
   color: black;
   font-size: 24px;
   font-weight: lighter;
 }
 
-span {
+.guess-number span {
   color: orange;
   font-size: 30px;
 }
